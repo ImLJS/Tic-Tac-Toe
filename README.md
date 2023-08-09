@@ -12,9 +12,9 @@ git clone https://github.com/your-username/tic-tac-toe.git
 
 2. Navigate to the project directory:
 
-  ```
-  cd tic-tac-toe
-  ```
+```
+cd tic-tac-toe
+```
 
 3. Run the game:
 ```
